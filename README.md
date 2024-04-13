@@ -15,5 +15,8 @@
    <ul>
      <li>If you have Node.js installed, you can use http-server or live-server to run a local server.</li>
   </ul>
-
+  <li><strong>Open the console in your browser:</strong>strong></li>
+  <ul>
+     <li>You'll see the output</li>
+  </ul>
 </ol>
