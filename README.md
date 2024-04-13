@@ -1,10 +1,19 @@
-﻿# Hitler-crawler
-How to start the project
-Download the project:
-Clone the repository: git clone https://github.com/ваш-логин/название-репозитория.git
-Or download the ZIP archive and unzip it.
-Open the index.html file:
-Locate the index.html file in the project folder.
-Open it in a browser by double-clicking on it.
-Or run it using a local server:
-If you have Node.js installed, you can use http-server or live-server to run a local server.
+<h1>Hitler-crawler</h1>
+<h2>How to start the project</h2>
+<ol>
+  <li><strong>Download the project:</strong>strong></li>
+    <ul>
+      <li>Clone the repository: git clone https://github.com/ваш-логин/название-репозитория.git</li>
+       <li>Or download the ZIP archive and unzip it.</li>
+    </ul>
+  <li><strong>Open the index.html file:</strong>strong></li>
+  <ul>
+    <li>Locate the index.html file in the project folder.</li>
+    <li>Open it in a browser by double-clicking on it.</li>
+  </ul>
+  <li><strong>Or run it using a local server:</strong>strong></li>
+   <ul>
+     <li>If you have Node.js installed, you can use http-server or live-server to run a local server.</li>
+  </ul>
+
+</ol>
