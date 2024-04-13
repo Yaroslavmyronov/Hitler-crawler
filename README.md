@@ -3,7 +3,7 @@
 <ol>
   <li><strong>Download the project:</strong>strong></li>
     <ul>
-      <li>Clone the repository: git clone https://github.com/ваш-логин/название-репозитория.git</li>
+      <li>Clone the repository: git clone https://github.com/Yaroslavmyronov/Hitler-crawler.git</li>
        <li>Or download the ZIP archive and unzip it.</li>
     </ul>
   <li><strong>Open the index.html file:</strong>strong></li>
